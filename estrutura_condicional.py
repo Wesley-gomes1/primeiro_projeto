@@ -2,7 +2,7 @@
 print("casar ou comprar uma bicicleta? ")
 resposta = input("você está gordo? s/n ")
 if  resposta == "s":
-    quer_emagrecer = input("Você quer eagrecer? s/n ")
+    quer_emagrecer = input("Você quer emagrecer? s/n ")
     if quer_emagrecer == "s":
      print("Compre uma bicicleta!")
     else:
