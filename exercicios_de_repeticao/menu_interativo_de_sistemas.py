@@ -7,4 +7,5 @@ while True: #while True nao precisa de variavel
     5 - sair
     Digite uma opção: """))
     if opcao == 5:
+        print("saindo...")
         break
