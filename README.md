@@ -1,4 +1,1 @@
-# primeiro_projeto
-- Lista
-- Copa do mundo
-- Brasil 
+Projeto de conheciementos básicos em python realizados no Senac
